@@ -23,3 +23,6 @@ THEN I find a concise, descriptive title
 ```
 
 ## Screen Shot
+[](./assets/images/Screen-Shot.png)
+
+
